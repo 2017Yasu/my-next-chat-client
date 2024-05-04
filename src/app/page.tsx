@@ -9,6 +9,9 @@ export default function Home() {
           <li>
             <Link href={"/ws-test"}>Websocket Test</Link>
           </li>
+          <li>
+            <Link href={"/system"}>System</Link>
+          </li>
         </ul>
       </div>
     </div>
