@@ -12,6 +12,9 @@ export default function Home() {
           <li>
             <Link href={"/system"}>System</Link>
           </li>
+          <li>
+            <Link href={"/chat"}>Chat</Link>
+          </li>
         </ul>
       </div>
     </div>
